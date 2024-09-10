@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=caroliny-gomes-lima&show_icons=true&theme=tokyonight" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caroliny-gomes-lima&layout=donut&langs_count=16&theme=tokyonight" />
+</a>
+</div>
+
+<div>
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=caroliny-gomes-lima&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=caroliny-gomes-lima&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caroliny-gomes-lima/caroliny-gomes-lima/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/caroliny-gomes-lima/caroliny-gomes-lima/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/caroliny-gomes-lima/caroliny-gomes-lima/github-contribution-grid-snake.svg">
 </picture>
+</div>
