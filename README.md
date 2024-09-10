@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="https://github.com/caroliny-gomes-lima">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=caroliny-gomes-lima&show_icons=true&rank_icon=github&theme=tokyonight" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=caroliny-gomes-lima&show_icons=true&rank_icon=github&theme=tokyonight" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caroliny-gomes-lima&layout=compact&langs_count=16&theme=tokyonight" />
 </a>
 </div>
