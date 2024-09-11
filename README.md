@@ -1,12 +1,11 @@
 
-
-
-
 <div>
   <p align="center">
-       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/94cc4424-9251-42ae-8782-92465d0a0043" width="75">&nbsp;&nbsp;&nbsp;
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8300FF&width=450&height=45&lines=Seja+Bem+vindo(a)+ao+meu+Github!" alt="Typing SVG" /></a>
-       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/94cc4424-9251-42ae-8782-92465d0a0043" width="75">&nbsp;&nbsp;&nbsp;
+     <a href="https://git.io/typing-svg">
+       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8300FF&width=450&height=45&lines=Seja+Bem+vindo(a)+ao+meu+Github!" alt="Typing SVG" />
+     </a>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">
 </p>
 </div>
 
