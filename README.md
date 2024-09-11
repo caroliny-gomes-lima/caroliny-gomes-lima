@@ -1,18 +1,6 @@
 
-<!--
-**caroliny-gomes-lima/caroliny-gomes-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div>
   <p align="center">
@@ -23,6 +11,15 @@ Here are some ideas to get you started:
 </div>
 
 ##
+
+
+- 💻 Atualmente, trabalho como freelancer na área de front-end.
+- 🌱 Aprendendo Eclipse, Java, Spring Boot e Angular.
+- 🕹️ Amo games e cultura pop.
+- 🏋🏻‍♀️ Curtindo a vida fit.
+- 🐈‍⬛ Mãe de um gatinho.
+ 
+
 
 <div align="center">
 <a href="https://github.com/caroliny-gomes-lima">
