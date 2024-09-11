@@ -13,7 +13,7 @@
 </div>
 
 - 💻 Atualmente, trabalho como freelancer na área de front-end.
-- 🌱 Aspirante a desenvolvedora full stack. Aprendendo Eclipse, Java, Spring Boot e Angular.
+- 🌱 Aspirante a desenvolvedora full stack.
 - 🕹️ Amo games e cultura pop.
 - 🏋🏻‍♀️ Curtindo a vida fit.
 - 🐈‍⬛ Mãe de um gatinho.
@@ -40,7 +40,7 @@
 
 <div align="center">
 <h1>Conhecimentos e experiências</h1>
-</div>
+</div><br/>
 
 - <strong>Linguagens:</strong>
 <div style="display: inline_block">
@@ -87,5 +87,24 @@
   <img align="center" alt="carol-eclipse" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
   <img align="center" alt="carol-spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="carol-angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+</div>
+
+<div align="center">
+<h1>Formação</h1>
+</div><br/>
+
+- <strong>Bacharelado, Design de Jogos e Entretenimento Digital</strong>
+<div style="display: inline_block">
+  <img align="center" alt="carol-java" height="100" width="130" src="https://seeklogo.com/images/U/Univali-logo-8305D43532-seeklogo.com.png">
+</div><br/>
+
+<div align="center">
+<h1>Contato</h1>
+</div>
+<div> 
+  <div align="center">
+  <a href = "mailtocaroliny.gomeslima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caroliny-gomes-a142291b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
 </div>
 
