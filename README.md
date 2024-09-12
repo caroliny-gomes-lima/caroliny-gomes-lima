@@ -14,7 +14,7 @@
 - 🌱 Aspirante a desenvolvedora full stack.
 - 🕹️ Amo games e cultura pop.
 - 🏋🏻‍♀️ Curtindo a vida fit.
-- 🐈‍⬛ Mãe de um gatinho.
+- 🐈‍⬛ Mãe de um gatinho parecido com o Batman.
  <br/>
  
 <div align="center">
