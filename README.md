@@ -97,14 +97,16 @@
 <div style="display: inline_block">
   <div align="center">
 
-  <img  href="https://univali.br/graduacao/design-de-jogos-e-entretenimento-digital-florianopolis/Paginas/default.aspx" align="center" alt="logo-univali" height="100" width="130" src="https://seeklogo.com/images/U/Univali-logo-8305D43532-seeklogo.com.png" target="_blank">
-  
-  <a href="https://www.udemy.com/course/react-redux-pt/?couponCode=KEEPLEARNING" target="_blank"></a>
+<a href="https://univali.br/graduacao/design-de-jogos-e-entretenimento-digital-florianopolis/Paginas/default.aspx"  target="_blank">
+  <img  align="center" alt="logo-univali" height="100" width="130" src="https://seeklogo.com/images/U/Univali-logo-8305D43532-seeklogo.com.png" target="_blank">
+  </a>
+  <a href="https://univali.br/graduacao/design-de-jogos-e-entretenimento-digital-florianopolis/Paginas/default.aspx"  target="_blank">
   <img align="center" alt="logo-udemy" height="100" width="160" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo.png" target="_blank">
+  </a>
   
-  <a href="https://reprograma.com.br/curso-imersao-javascript/" target="_blank"></a>
+  <a href="https://reprograma.com.br/curso-imersao-javascript/" target="_blank">
   <img align="center" alt="logo-reprograma" height="100" width="100" src="https://storage.googleapis.com/atados-v3/user-uploaded/images/ae8b6362-952f-42d4-84f7-af22840b2027.png" target="_blank">
-
+</a>
   </div>
 </div><br/>
 
