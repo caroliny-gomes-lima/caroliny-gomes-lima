@@ -97,22 +97,10 @@
 
 <div style="display: inline_block;">
   <div align="center">
-    <img alt="logo-univali" height="100" width="130" src="https://seeklogo.com/images/U/Univali-logo-8305D43532-seeklogo.com.png" style="border: none; vertical-align: middle;">
-    <img alt="logo-udemy" height="100" width="160" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo.png" style="border: none; vertical-align: middle;">
-    <img alt="logo-reprograma" height="100" width="100" src="https://storage.googleapis.com/atados-v3/user-uploaded/images/ae8b6362-952f-42d4-84f7-af22840b2027.png" style="border: none; vertical-align: middle;">
-  </div>
-</div>
-<div style="display: inline_block;">
-  <div align="center">
-    <a href = mailto:caroliny.gomeslima@gmail.com><img src="https://img.shields.io/badge/-Gmail-b20000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = mailto:caroliny.gomeslima@gmail.com><img src="https://img.shields.io/badge/-Gmail-b20000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caroliny-gomes-a142291b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-</div>
-
-
-
-
+     <a href="https://univali.br/graduacao/design-de-jogos-e-entretenimento-digital-florianopolis/Paginas/default.aspx"><img  alt="logo-univali" height="100" width="140" src="https://seeklogo.com/images/U/Univali-logo-8305D43532-seeklogo.com.png?style=for-the-badge" target="_blank"></a>
+     <a href="https://www.udemy.com/course/react-redux-pt/?couponCode=KEEPLEARNING"><img  alt="logo-udemy" height="100" width="160" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo.png?style=for-the-badge" target="_blank"></a>
+    <a href="https://reprograma.com.br/curso-imersao-javascript/"><img  alt="logo-reprograma" height="100" width="120" src="https://storage.googleapis.com/atados-v3/user-uploaded/images/ae8b6362-952f-42d4-84f7-af22840b2027.png?style=for-the-badge" target="_blank"></a>
+  </div><br/>
 
 <div align="center">
 <h1>Contato</h1>
