@@ -7,7 +7,7 @@
 </div>
 
 - 💻 :briefcase: Atualmente, em busca de oportunidades.
-- 🌱 Aspirante a desenvolvedora full stack.
+- 🌱 Desenvolvedora front-end junior e aspirante a desenvolvedora full stack junior.
 - 🕹️ Amo games e cultura pop.
 - 🏋🏻‍♀️ Curtindo a vida fit.
 - 🐈‍⬛ Mãe de um gatinho parecido com o Batman.
