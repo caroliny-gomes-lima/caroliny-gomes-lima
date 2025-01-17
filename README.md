@@ -6,7 +6,7 @@
 </p>
 </div>
 
-- 💻 Atualmente, trabalho como freelancer na área de front-end.
+- 💻 Atualmente, em busca de oportunidades.
 - 🌱 Aspirante a desenvolvedora full stack.
 - 🕹️ Amo games e cultura pop.
 - 🏋🏻‍♀️ Curtindo a vida fit.
