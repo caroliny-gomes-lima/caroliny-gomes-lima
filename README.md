@@ -92,7 +92,7 @@
 
 <div style="display: inline_block;">
   <div align="center">
-     <a href="https://univali.br/graduacao/design-de-jogos-e-entretenimento-digital-florianopolis/Paginas/default.aspx"><img  alt="logo-univali" height="100" width="140" src="https://seeklogo.com/images/U/Univali-logo-8305D43532-seeklogo.com.png?style=for-the-badge" target="_blank"></a>
+     <a href="https://univali.br/graduacao/design-de-jogos-e-entretenimento-digital-florianopolis/Paginas/default.aspx"><img  alt="logo-univali" height="100" width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCAXGmBLq8wvAupxZv-b_yk5M7GxeK1GYBSw&s" target="_blank"></a>
      <a href="https://www.udemy.com/course/react-redux-pt/?couponCode=KEEPLEARNING"><img  alt="logo-udemy" height="100" width="160" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo.png?style=for-the-badge" target="_blank"></a>
     <a href="https://reprograma.com.br/curso-imersao-javascript/"><img  alt="logo-reprograma" height="100" width="120" src="https://storage.googleapis.com/atados-v3/user-uploaded/images/ae8b6362-952f-42d4-84f7-af22840b2027.png?style=for-the-badge" target="_blank"></a>
   </div><br/>
