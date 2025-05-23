@@ -98,10 +98,10 @@
 <div align="center">
 <h1>Contato</h1>
 </div>
-<div> 
-  <div align="center">
-  <a href = mailto:caroliny.gomeslima@gmail.com><img src="https://img.shields.io/badge/-Gmail-b20000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caroliny-lima-desenvolvedora-sistemas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+  <div style="display: inline_block;" align="center">
+    
+[![Gmail](https://img.shields.io/badge/GMAIL%20-white?style=for-the-badge&logo=gmail)](mailto:caroliny.gomeslima@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroliny-lima-desenvolvedora-sistemas/)
+[![Meu Site](https://img.shields.io/badge/MEU%20SITE%20-8A2BE2?style=for-the-badge&logo=vercel)](https://seusite.com)
 </div>
 
