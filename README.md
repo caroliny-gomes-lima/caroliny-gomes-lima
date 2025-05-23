@@ -1,12 +1,10 @@
-<div>
-  <p align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/94cc4424-9251-42ae-8782-92465d0a0043" width="75">&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8300FF&width=440&lines=Sou+Caroliny%2C+desenvolvedora.;Seja+bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">
 </p>
 </div>
 
-- 💻 :briefcase: Atualmente, em busca de oportunidades.
+- 💻 :briefcase: Atualmente, estudante de pós-graduação em busca de oportunidades.
 - 🌱 Desenvolvedora front-end junior e aspirante a desenvolvedora full stack junior.
 - 🕹️ Amo games e cultura pop.
 - 🏋🏻‍♀️ Curtindo a vida fit.
@@ -14,7 +12,7 @@
  <br/>
  
 <div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="130"> <br/>
 </div> <br/>
 
 <div align="center">
@@ -66,7 +64,6 @@
    <img align="center" alt="carol-vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" >
   <img align="center" alt="carol-npm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="carol-yarn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" >
-  <img align="center" alt="carol-dbeaver" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" >
   <img align="center" alt="carol-insomnia" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" >
   <img align="center" alt="carol-postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" >
   <img align="center" alt="carol-docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">
@@ -76,10 +73,11 @@
 </div><br/><br/>
 
 - <strong>Aprendendo no momento:</strong>
+<p>Pós-graduação EAD - Desenvolvimento Full-Stack - Universidade Pontifícia Universidade Católica de Minas Gerais (PUC Minas)</p>
 <div style="display: inline_block">
-  <img align="center" alt="carol-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="carol-eclipse" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
-  <img align="center" alt="carol-spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+   <a href="https://vemprapuc.pucminas.br/desenvolvimento-full-stack-3979">
+  <img align="center" alt="carol-pucMinas" height="100" width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBKe6AEffgJMyoOMlO-5-iChimIAsi3Vn5-A&s">
+<a/>
 </div>
 
 <div align="center">
