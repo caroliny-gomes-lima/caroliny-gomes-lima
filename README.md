@@ -102,6 +102,6 @@
     
 [![Gmail](https://img.shields.io/badge/GMAIL%20-white?style=for-the-badge&logo=gmail)](mailto:caroliny.gomeslima@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroliny-lima-desenvolvedora-sistemas/)
-[![Meu Site](https://img.shields.io/badge/MEU%20SITE%20-8A2BE2?style=for-the-badge&logo=vercel)](https://seusite.com)
+[![Meu Site](https://img.shields.io/badge/MEU%20SITE%20-8A2BE2?style=for-the-badge&logo=vercel)](https://carolinydev.vercel.app/)
 </div>
 
