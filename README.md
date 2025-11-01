@@ -58,7 +58,6 @@
 
 - <strong>Ferramentas:</strong>
 <div style="display: inline_block">
-  <img align="center" alt="carol-illustrator" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="carol-xd" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg">
   <img align="center" alt="carol-figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
    <img align="center" alt="carol-vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" >
